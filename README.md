@@ -1,4 +1,4 @@
-# Loan-Prediction-System
+# Loan-Approval-Prediction-System
 
 ## Project Overview
 
@@ -23,6 +23,25 @@ The project involves data preprocessing, exploratory data analysis, feature engi
    - [Random Forest](#random-forest)
    - [Gradient Boosting Classifier](#gradient-boosting-classifier)
    - [XGBoost Classifier](#xgboost-classifier)
+
+## Data Source
+
+The dataset used for this project is provided in the data directory. It contains information about the loan applicants.
+
+The dataset contains the following columns:
+- Loan_ID: Unique identifier for each loan application.
+- Gender: Gender of the applicant.
+- Married: Marital status of the applicant.
+- Dependents: Number of dependents.
+- Education: Educational background of the applicant.
+- Self_Employed: Whether the applicant is self-employed.
+- ApplicantIncome: Applicant's income.
+- CoapplicantIncome: Co-applicant's income.
+- LoanAmount: Loan amount in thousands.
+- Loan_Amount_Term: Term of the loan in months.
+- Credit_History: Credit history meets guidelines.
+- Property_Area: Urban, Semi-Urban, or Rural.
+- Loan_Status: (Target) Whether the loan was approved (Y/N) or unapproved
 
 
 
