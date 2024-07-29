@@ -2,8 +2,9 @@
 
 ### Project Video
 
-<video src="Loan.mp4" controls="controls" style="max-width: 100%;">
+<video src="https://user-images.githubusercontent.com/40884947/136693993-2b530def-f7b0-440f-9158-51c41f060eb7.mp4" controls="controls" style="max-width: 100%;">
 </video>
+
 
 ## Project Overview
 
