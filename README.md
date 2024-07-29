@@ -1,9 +1,11 @@
 # Loan-Eligibility-Prediction-System
 
+### Project Video
+
+<video src="Loan.mp4" controls="controls" style="max-width: 100%;">
+</video>
+
 ## Project Overview
-
-!["C:\Users\Harrison\Documents\loan_prediction_system\Loan.mp4"]
-
 
 This project aims to automate the loan eligibility process for Dream Housing Finance company. The company deals in all kinds of home loans and has a presence across urban, semi-urban, and rural areas. The goal is to build a machine-learning model that predicts the loan status (approved or not approved) based on various customer details in the application form.
 
