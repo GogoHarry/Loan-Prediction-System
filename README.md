@@ -86,7 +86,7 @@ print(confusion_matrix(y_test, predictions))
 streamlit run app.py
 ```
 
-2. The app will be accessible at http://localhost:8501. Provide input data and get loan status predictions.
+2. The app will be accessible at http://localhost:8501. Provide input data and get loan eligibility predictions.
 
 # Contributing
 1. Fork the repository.
